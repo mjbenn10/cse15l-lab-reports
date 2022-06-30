@@ -43,4 +43,7 @@ print '3 back tiks'
 print 'this is code'
 ```
 
-
+```
+This is another block of code 
+This one looks a lot cooler though
+```
