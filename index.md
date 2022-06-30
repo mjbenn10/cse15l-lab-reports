@@ -31,12 +31,11 @@ Header 2
 2. Two 
 3. Three
 
+---
 'Inline code' with backticks
 
---- Horizontal rule
---- I wonder what this does 
-*** lets try this one
-*** lets try this one again
+--- 
+
 
 '''
 # code block 
