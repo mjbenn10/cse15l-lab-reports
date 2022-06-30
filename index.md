@@ -2,7 +2,7 @@ My first webpage
 
 Hello Internet,
 
-[Second Page]https://mjbenn10.github.io/cse15l-lab-reports/secondindex.html
+[Second Page](https://mjbenn10.github.io/cse15l-lab-reports/secondindex.html)
 
 *This text is italic*
 **This text is bold**
