@@ -32,15 +32,15 @@ Header 2
 3. Three
 
 ---
-'Inline code' with backticks
+`Inline code` with backticks
 
 --- 
 
 
-'''
+```
 # code block 
 print '3 back tiks'
 print 'this is code'
-'''
+```
 
 
