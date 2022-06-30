@@ -17,3 +17,7 @@ Header
 
 Header 2
 ========
+
+![penguin] 
+
+> This is a random block of text, ipsem loret something something something 
