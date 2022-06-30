@@ -79,3 +79,5 @@ This one looks a lot cooler though
 
 ## Inline Code Practice
 `Make sure youre using backticks when making inline code` 'Otherwise it just looks like this'
+
+![picture](https://www.google.com/imgres?imgurl=https%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F999%2Fcpsprodpb%2F15951%2Fproduction%2F_117310488_16.jpg&imgrefurl=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fin-pictures-56211135&tbnid=Hc5jHkS6Vw5sZM&vet=12ahUKEwio3qyG0NX4AhX8HTQIHTWuCtYQMygBegUIARCtAQ..i&docid=b-u5RBLJswB2ZM&w=999&h=749&q=pictures&ved=2ahUKEwio3qyG0NX4AhX8HTQIHTWuCtYQMygBegUIARCtAQ)
