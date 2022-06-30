@@ -80,4 +80,4 @@ This one looks a lot cooler though
 ## Inline Code Practice
 `Make sure youre using backticks when making inline code` 'Otherwise it just looks like this'
 
-![picture](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.planetware.com%2Fwpimages%2F2020%2F02%2Ffrance-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg&imgrefurl=https%3A%2F%2Fwww.planetware.com%2Fpictures%2Ffrance-f.htm&tbnid=YXgcNflll9kS8M&vet=12ahUKEwio3qyG0NX4AhX8HTQIHTWuCtYQMygAegUIARCrAQ..i&docid=0N6qTt3P-PlepM&w=730&h=487&q=pictures&ved=2ahUKEwio3qyG0NX4AhX8HTQIHTWuCtYQMygAegUIARCrAQ)
+![picture](https://media.istockphoto.com/photos/cat-and-dog-sleeping-puppy-and-kitten-sleep-picture-id1168451046?b=1&k=20&m=1168451046&s=612x612&w=0&h=RPHJBHJrHgXYFRcHx-AvI7c8s-2Jv6NhGmn3oIVtbtA=)
