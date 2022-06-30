@@ -55,6 +55,7 @@ This one looks a lot cooler though
 ## Lets make a block quote
 > This is a block quote but is different from code blocks
 > Everything in a block quote wraps even if you put it on a different line.
+
 ---
 ## Regular List
 * This is your first list item
