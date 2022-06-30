@@ -18,7 +18,7 @@ Header
 Header 2
 ========
 
-![penguin]https://media.istockphoto.com/photos/gentoo-penguin-walking-in-snow-in-antarctica-picture-id533995902?b=1&k=20&m=533995902&s=170667a&w=0&h=iI_6wIrEewrbsa5UacU2EMlKrbfUcaHKhpQAjoZACwk=
+![penguin](https://media.istockphoto.com/photos/gentoo-penguin-walking-in-snow-in-antarctica-picture-id533995902?b=1&k=20&m=533995902&s=170667a&w=0&h=iI_6wIrEewrbsa5UacU2EMlKrbfUcaHKhpQAjoZACwk=)
 
 > This is a random block of text, ipsem loret something something something 
 > This is another line of the block of text 
